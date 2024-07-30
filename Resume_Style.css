@@ -552,6 +552,7 @@ button:focus {
     background-color: #93738c;
 }
 
+/* span */ 
 
 
 /*Percentage Classes */
@@ -569,6 +570,10 @@ button:focus {
 .fifty-percent {
     height: inherit;
     width: 50%;
+}
+.hundred-percent{
+    height: inherit;
+    width: 100%;
 }
 
 
