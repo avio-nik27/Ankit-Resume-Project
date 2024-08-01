@@ -168,6 +168,7 @@ section:nth-child(2n + 1) {
     width: 12rem;
     margin: auto;
     margin-top: -17vh;
+    z-index: inherit;
 }
 
 #my-image img {
